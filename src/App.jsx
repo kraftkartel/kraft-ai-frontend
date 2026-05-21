@@ -1,3 +1,5 @@
-export default function App() {
+function App() {
   return <div>KRAFT AI</div>;
 }
+
+export default App;
